@@ -2,7 +2,7 @@
 Module 14 Challenge for Laura Jordan
 
 ## Description
-In this assignment, I built an interactive dashboard to explore a Belly Button Diversity dataset, which catalogs the microbes that colonize in human navels. 
+In this assignment, I built an interactive dashboard to explore a Belly Button Diversity dataset, which catalogs the microbes that colonize in human navels.
 
 The interactive dashboard includes:
 * **Intro:** An intro section outlining basic information about the study
@@ -26,3 +26,5 @@ I attended class, rewatched zoom recordings of class, reviewed my notes, and did
 * static/js folder which has the app.js file with my code
 * index.html with the HTML code
 * samples.json is the file with the initial dataset
+
+Additional information on the study and dataset can be found at http://robdunnlab.com/projects/belly-button-biodiversity/
